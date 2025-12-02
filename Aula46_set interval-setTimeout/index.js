@@ -7,4 +7,4 @@ function mostraHora() {
 function funcaoDoIntervalo() {
     console.log (mostraHora());
 }
-setInterval(funcaoDoIntervalo, 1000);
+setInterval(funcaoDoIntervalo, 1000); //Executa a função a cada 1 segundo (1000 milissegundos)
